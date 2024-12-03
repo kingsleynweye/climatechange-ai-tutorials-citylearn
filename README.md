@@ -46,6 +46,6 @@ Nweye, K., Wu, A., Almilaify, Y., & Nagy, Z. (2024). CityLearn: Reinforcement Le
   type={Tutorial},
   doi={https://doi.org/10.5281/zenodo.11639022},
   booktitle={Climate Change AI Summer School},
-  howpublished={\url{https://https://github.com/climatechange-ai-tutorials/citylearn}}
+  howpublished={\url{https://github.com/climatechange-ai-tutorials/citylearn}}
 }
 ```
